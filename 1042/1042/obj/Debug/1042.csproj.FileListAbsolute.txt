@@ -1,0 +1,8 @@
+C:\Users\Domin\source\repos\1042\1042\bin\Debug\1042.exe.config
+C:\Users\Domin\source\repos\1042\1042\bin\Debug\1042.exe
+C:\Users\Domin\source\repos\1042\1042\bin\Debug\1042.pdb
+C:\Users\Domin\source\repos\1042\1042\obj\Debug\1042.csproj.AssemblyReference.cache
+C:\Users\Domin\source\repos\1042\1042\obj\Debug\1042.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domin\source\repos\1042\1042\obj\Debug\1042.csproj.CoreCompileInputs.cache
+C:\Users\Domin\source\repos\1042\1042\obj\Debug\1042.exe
+C:\Users\Domin\source\repos\1042\1042\obj\Debug\1042.pdb

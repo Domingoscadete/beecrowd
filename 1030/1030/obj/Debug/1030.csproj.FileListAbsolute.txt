@@ -1,0 +1,8 @@
+C:\Users\Domin\source\repos\1030\1030\obj\Debug\1030.csproj.AssemblyReference.cache
+C:\Users\Domin\source\repos\1030\1030\obj\Debug\1030.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domin\source\repos\1030\1030\obj\Debug\1030.csproj.CoreCompileInputs.cache
+C:\Users\Domin\source\repos\1030\1030\bin\Debug\1030.exe.config
+C:\Users\Domin\source\repos\1030\1030\bin\Debug\1030.exe
+C:\Users\Domin\source\repos\1030\1030\bin\Debug\1030.pdb
+C:\Users\Domin\source\repos\1030\1030\obj\Debug\1030.exe
+C:\Users\Domin\source\repos\1030\1030\obj\Debug\1030.pdb

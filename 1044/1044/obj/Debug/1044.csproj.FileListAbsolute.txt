@@ -1,0 +1,8 @@
+C:\Users\Domin\source\repos\1044\1044\bin\Debug\1044.exe.config
+C:\Users\Domin\source\repos\1044\1044\bin\Debug\1044.exe
+C:\Users\Domin\source\repos\1044\1044\bin\Debug\1044.pdb
+C:\Users\Domin\source\repos\1044\1044\obj\Debug\1044.csproj.AssemblyReference.cache
+C:\Users\Domin\source\repos\1044\1044\obj\Debug\1044.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domin\source\repos\1044\1044\obj\Debug\1044.csproj.CoreCompileInputs.cache
+C:\Users\Domin\source\repos\1044\1044\obj\Debug\1044.exe
+C:\Users\Domin\source\repos\1044\1044\obj\Debug\1044.pdb
