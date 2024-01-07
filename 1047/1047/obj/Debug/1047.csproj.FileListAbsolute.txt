@@ -1,0 +1,8 @@
+C:\Users\Domin\source\repos\1047\1047\bin\Debug\1047.exe.config
+C:\Users\Domin\source\repos\1047\1047\bin\Debug\1047.exe
+C:\Users\Domin\source\repos\1047\1047\bin\Debug\1047.pdb
+C:\Users\Domin\source\repos\1047\1047\obj\Debug\1047.csproj.AssemblyReference.cache
+C:\Users\Domin\source\repos\1047\1047\obj\Debug\1047.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domin\source\repos\1047\1047\obj\Debug\1047.csproj.CoreCompileInputs.cache
+C:\Users\Domin\source\repos\1047\1047\obj\Debug\1047.exe
+C:\Users\Domin\source\repos\1047\1047\obj\Debug\1047.pdb
